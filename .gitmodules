@@ -1,0 +1,3 @@
+[submodule "pu-bwb"]
+	path = pu-bwb
+	url = https://github.com/QueenField/PU-BWB-MSP430.git
